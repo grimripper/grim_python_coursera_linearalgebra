@@ -23,19 +23,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="04_modules.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_modules.py">
+      <file leaf-file-name="vec.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/matrix/vec.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+            <state line="10" column="16" selection-start="239" selection-end="239" vertical-scroll-proportion="0.33464566" vertical-offset="0" max-vertical-offset="1734">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05_vectorClass.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05_vectorClass.py">
+      <file leaf-file-name="06_class.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="18" selection-start="499" selection-end="499" vertical-scroll-proportion="0.92672414" vertical-offset="80" max-vertical-offset="612">
+            <state line="13" column="29" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+              <folding>
+                <marker date="1388265878057" expanded="true" signature="9:151" placeholder="..." />
+                <marker date="1388265878057" expanded="true" signature="36:55" placeholder="..." />
+                <marker date="1388265878057" expanded="true" signature="87:151" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_vec.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matrix/test_vec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="66" selection-start="635" selection-end="697" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1989">
               <folding />
             </state>
           </provider>
@@ -56,19 +69,23 @@
         <option value="$PROJECT_DIR$/matrix/python_lab.py" />
         <option value="$PROJECT_DIR$/matrix/dictutil.py" />
         <option value="$PROJECT_DIR$/04_modules.py" />
-        <option value="$PROJECT_DIR$/matrix/test.py" />
         <option value="$PROJECT_DIR$/matrix/inverse_index_lab.py" />
         <option value="$PROJECT_DIR$/hw0/hw0.py" />
         <option value="$PROJECT_DIR$/matrix/hw0.py" />
         <option value="$PROJECT_DIR$/05_vectorClass.py" />
+        <option value="$PROJECT_DIR$/matrix/test.py" />
+        <option value="$PROJECT_DIR$/matrix/hw1.py" />
+        <option value="$PROJECT_DIR$/06_class.py" />
+        <option value="$PROJECT_DIR$/matrix/my_test.py" />
+        <option value="$PROJECT_DIR$/matrix/vec.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="930" />
-    <option name="y" value="29" />
-    <option name="width" value="960" />
-    <option name="height" value="972" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -96,7 +113,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -115,18 +131,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grim_python_coursera_linearalgebra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grim_python_coursera_linearalgebra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="matrix" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../grim_python_courseara_daa1" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -145,43 +176,7 @@
       <recent name="C:\MyCode\grim_python_coursera_linearalgebra" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05_vectorClass">
-    <configuration default="false" name="02_complexnumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="grim_python_coursera_linearalgebra" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_complexnumbers.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="01_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="grim_python_coursera_linearalgebra" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_test.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.test_vec">
     <configuration default="false" name="04_modules" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,6 +226,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="grim_python_coursera_linearalgebra" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_vectorClass.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="06_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="grim_python_coursera_linearalgebra" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_class.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_vec" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matrix" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="grim_python_coursera_linearalgebra" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix/test_vec.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -358,23 +389,40 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.02_complexnumbers" />
-      <item index="1" class="java.lang.String" itemvalue="Python.01_test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.04_modules" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.05_vectorClass" />
+      <item index="0" class="java.lang.String" itemvalue="Python.04_modules" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.05_vectorClass" />
+      <item index="3" class="java.lang.String" itemvalue="Python.06_class" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test_vec" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.05_vectorClass" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.04_modules" />
-        <item index="3" class="java.lang.String" itemvalue="Python.02_complexnumbers" />
-        <item index="4" class="java.lang.String" itemvalue="Python.01_test" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test_vec" />
+        <item index="1" class="java.lang.String" itemvalue="Python.06_class" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.05_vectorClass" />
+        <item index="4" class="java.lang.String" itemvalue="Python.04_modules" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="dab6a266-3ed1-438f-afe8-9b4fcbfa1099" name="Default" comment="" />
@@ -384,18 +432,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="930" y="29" width="960" height="972" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20233051" sideWeight="0.5840286" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12708333" sideWeight="0.5785482" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4159714" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42145178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -419,32 +467,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04_modules.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_modules.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_modules.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week0/dictutil.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3757" />
@@ -453,16 +475,6 @@
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="503" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_complexnumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="8" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week0/submit_inverse_index_lab.py">
@@ -497,14 +509,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04_modules.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
+        <state line="9" column="0" selection-start="148" selection-end="148" vertical-scroll-proportion="0.18819188" vertical-offset="0" max-vertical-offset="813" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_complexnumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="8" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/05_vectorClass.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="18" selection-start="499" selection-end="499" vertical-scroll-proportion="0.92672414" vertical-offset="80" max-vertical-offset="612">
+        <state line="15" column="16" selection-start="270" selection-end="270" vertical-scroll-proportion="0.5019685" vertical-offset="0" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="29" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <folding>
+            <marker date="1388265878057" expanded="true" signature="9:151" placeholder="..." />
+            <marker date="1388265878057" expanded="true" signature="36:55" placeholder="..." />
+            <marker date="1388265878057" expanded="true" signature="87:151" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matrix/test_vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="66" selection-start="635" selection-end="697" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1989">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matrix/vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="16" selection-start="239" selection-end="239" vertical-scroll-proportion="0.33464566" vertical-offset="0" max-vertical-offset="1734">
           <folding />
         </state>
       </provider>
