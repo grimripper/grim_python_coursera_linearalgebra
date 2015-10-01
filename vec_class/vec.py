@@ -14,22 +14,22 @@ def equal(u,v):
     "Returns true iff u is equal to v"
     assert u.D == v.D
     diff = [0 if u[x] == v[x] else 1 for x in u.D]
-    print(diff)
+    #print(diff)
     return sum(diff) == 0
 
 def add(u,v):
     "Returns the sum of the two vectors"
     assert u.D == v.D
-    return {k:(x+y) for (k1,x) in u.f for (k2,y) in v.f if k1 == k2}
+    return Vec(u.D, {k:(u[k] + v[k]) for k in u.D})
 
 def dot(u,v):
     "Returns the dot product of the two vectors"
     assert u.D == v.D
-    return sum([x*y for (k1,x) in u.f for (k2,y) in v.f if k1 == k2])
+    return sum([u[k]*v[k] for k in u.D])
 
 def scalar_mul(v, alpha):
     "Returns the scalar-vector product alpha times v"
-    return {k:(alpha*x) for (k,x) in v.f}
+    return Vec(v.D,{k:(alpha*v[k]) for k in v.D})
 
 def neg(v):
     "Returns the negation of a vector"
